@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+* { margin:0px; padding:0px; outline:0px; }
+
+body {
+	background:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#000;
+	font-size:12px;
+	direction:rtl;
+	}
+#cliprz {
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	border:#F1F1F1 1px dotted;
+	}
+#cliprz #header {
+	background:#005599;
+	font-size:14px;
+	color:#FFF;
+	padding:20px;
+	}
+#cliprz #navbar {
+	background:#F1F1F1;
+	height:24px;
+	padding:3px;
+	}
+#cliprz #navbar ul {
+	margin:0;
+	padding:0;
+	}
+#cliprz #navbar ul li {
+	list-style-type:none;
+	display:block;
+	float:right;
+	padding:4px;
+	}
+#cliprz #navbar ul li a {
+	padding:7px;
+	text-decoration:none;
+	color:#555;
+	}
+#cliprz #navbar ul li a:hover {
+	background:#999;
+	color:#FFF;
+	}
+#cliprz #footer {
+	background:#F1F1F1;
+	padding:5px;
+	font-size:10px;
+	color:#555;
+	text-align:center;
+	}
+#cliprz .clear {
+	clear:both;
+	}
+.tbl{
+        background-color:#f1f1f1;
+		font-weight:bold;
+		padding:3px;	
+	
+}
+.tbl2{
+        background-color:#FFF;
+		font-weight:bold;
+		padding:3px;	
+	
+}
+.bottons{
+	    background-color:#005599;
+		padding-top:3px;
+		padding-bottom:3px;
+		padding-left:6px;
+		padding-right:6px;
+		border:#fff 1px dotted;
+		color:#fff;
+        }
+.bottons:hover{
+	    background-color:#ccc;
+		padding-top:3px;
+		padding-bottom:3px;
+		padding-left:6px;
+		padding-right:6px;
+		border:#fff 1px dotted;
+		color:#CCC;
+        }
+input, textarea,select{
+	    background-color:#FFF;
+	    border:1px dotted #555;
+        }
+input:hover, textarea:hover,select:hover{
+	    background-color:#FFFFcc;
+	    border:1px solid #000;
+        }
+input:focus, textarea:focus,select:focus{
+	    background-color:#FFFFcc;
+	    border:1px solid #000;
+        }
+.headcom{
+	font-family:"Lucida Console", Monaco, monospace;
+	color:#333;
+	border-top:2px #333333 solid;
+	border-right:2px #333333 solid;
+	border-left:2px #333333 solid;
+	
+}
+.combody{
+	font-family:"Lucida Console", Monaco, monospace;
+	color:#333;
+	border-bottom:2px #333333 solid;
+	border-right:2px #333333 solid;
+	border-left:2px #333333 solid;
+	
+	
+}

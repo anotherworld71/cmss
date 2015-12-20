@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.head {
+	background:#005599;
+	color:#FFF;
+	padding:5px;
+	text-align:center;
+	font-weight:bold;
+	}
+.bodypanel {
+	padding:5px;
+	border-bottom:#999 1px solid;
+	border-left:#999 1px solid;
+	border-right:#999 1px solid;
+	margin-bottom:10px;
+	}
+<!-- styles.css-->
+	
+	
